@@ -8,5 +8,6 @@ function play() {
     const source = document.createElement("source");
     source.src = "Saras_Song.mp3";
     audio.appendChild(source);
+    audio.volume = 0.4;
     audio.play();
 }
