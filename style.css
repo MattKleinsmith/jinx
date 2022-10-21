@@ -1,0 +1,13 @@
+body {
+    background-color: #181A1C;
+}
+
+#wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    height: 100px;
+    width: 160px;
+}
